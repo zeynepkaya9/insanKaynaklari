@@ -1,0 +1,7 @@
+C:\Users\ZEYNEP\source\repos\YazlabDeneme\YazlabDeneme\bin\Debug\YazlabDeneme.exe.config
+C:\Users\ZEYNEP\source\repos\YazlabDeneme\YazlabDeneme\bin\Debug\YazlabDeneme.exe
+C:\Users\ZEYNEP\source\repos\YazlabDeneme\YazlabDeneme\bin\Debug\YazlabDeneme.pdb
+C:\Users\ZEYNEP\source\repos\YazlabDeneme\YazlabDeneme\obj\Debug\YazlabDeneme.csprojAssemblyReference.cache
+C:\Users\ZEYNEP\source\repos\YazlabDeneme\YazlabDeneme\obj\Debug\YazlabDeneme.csproj.CoreCompileInputs.cache
+C:\Users\ZEYNEP\source\repos\YazlabDeneme\YazlabDeneme\obj\Debug\YazlabDeneme.exe
+C:\Users\ZEYNEP\source\repos\YazlabDeneme\YazlabDeneme\obj\Debug\YazlabDeneme.pdb
